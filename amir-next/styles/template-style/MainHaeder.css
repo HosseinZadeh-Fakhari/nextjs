@@ -1,0 +1,14 @@
+body{
+text-align: center;
+background-image:url(../Image-Font/Colored-Shapes.svg) ;
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-attachment:fixed;
+color: white;
+
+}
+.table-width{
+margin: auto;
+width: 1200px
+
+}
